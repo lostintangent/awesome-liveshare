@@ -1,7 +1,7 @@
 # <img src="https://ms-vsliveshare.gallerycdn.vsassets.io/extensions/ms-vsliveshare/vsliveshare-pack/0.2.12/1554959297207/Microsoft.VisualStudio.Services.Icons.Default" width="25px" /> Awesome Live Share
 <img src="https://awesome.re/badge.svg" alt="Awesome">
 
-A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articles, editor extensions and more. Inspired by other [awesome lists](https://github.com/sindresorhus/awesome-nodejs) and meant to provide visibility to resources that can help make your real-time collaborative development experience even better! If you notice something missing below, that would benefit the community, please feel free to submit a PR or reach out to [@lostintangent](http://twitter.co/lostintangent) on Twitter 👋
+A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articles, editor extensions and more. Inspired by other [awesome lists](https://github.com/sindresorhus/awesome-nodejs) and meant to provide visibility to resources that can help make your real-time collaborative development experience even better! If you notice something missing below, that would benefit the community, please feel free to submit a PR or reach out to [@lostintangent](http://twitter.com/lostintangent) on Twitter 👋
 
 <a href="https://aka.ms/vsls-zelda"><img src="https://aka.ms/vsls-zelda" width="500px" /></a>
 
