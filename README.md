@@ -19,8 +19,8 @@ A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articl
         - [Integrated Chat](#integrated-chat)
         - [Diagnostics](#diagnostics)
 - [Resources](#resources)
-    - [Documentation](#documentation)
     - [Articles](#articles)
+    - [Documentation](#documentation) 
     - [Extensibility SDKS](#exensibility-sdks)
 
 ## Extensions
@@ -72,14 +72,6 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 
 ## Resources
 
-### Documentation
-
-- [Visual Studio "How to"](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vs)
-- [Visual Studio Code "How to"](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode)
-- [Security Considerations](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/security)
-- [Connectivity Requirements](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/connectivity)
-- [Common Use Cases](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/use-cases)
-
 ### Articles
 
 - [In Pursuit of Enjoyable Developer Collaboration](https://aka.ms/vsls-why)
@@ -87,6 +79,14 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 - [Localhost Isn't Local Anymore](https://dev.to/lostintangent/localhost-isnt-local-anymore-2ib6)
 - [Collaborative Development Requires a Shared Browser](https://dev.to/lostintangent/collaborative-browsing-within-visual-studio-code-4h92)
 - [Visual Studio Live Share Can Do That?](https://www.smashingmagazine.com/2018/09/visual-studio-live/)
+
+### Documentation
+
+- [Visual Studio "How to"](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vs)
+- [Visual Studio Code "How to"](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode)
+- [Security Considerations](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/security)
+- [Connectivity Requirements](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/connectivity)
+- [Common Use Cases](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/use-cases)
 
 ### Extensibility SDKS
 
