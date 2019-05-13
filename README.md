@@ -9,10 +9,10 @@ A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articl
 
 - [Extensions](#extensions)
     - [Visual Studio Code](#visual-studio-code)
-        - [Chat / Communication](#chat---communication)
+        - [Chat / Communication](#chat--communication)
         - [Miscellaneous](#miscellaneous)
         - [Testing](#testing)
-        - [Time Tracking / Management](#time-tracking---management)
+        - [Time Tracking / Management](#time-tracking--management)
         - [Version Control](#version-control)
         - [Web Development](#web-development)
     - [Visual Studio](#visual-studio)
@@ -32,17 +32,13 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 ##### Chat / Communication
 
 - [CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - Provides an integrated chat and rich commenting system, that includes the ability to spin up Live Share sessions.
-
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - Allows other Discord users to easily spectate and/or join your active Live Share sessions
-
 - [Live Share Audio](https://aka.ms/vsls-audio) - Provides integrated audio calling for Live Share sessions, without needing to use a seperate service.
-
 - [Team Chat](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - Provides integrated text chat for Live Share sessions, without needing to use a seperate service. 
 
 ##### Miscellaneous
 
 - [Live Share Whiteboard](https://aka.ms/vsls-whiteboard) - Provides a real-time, collaborative whiteboard to Live Share sessions
-
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - A live JavaScript scratchpad, that can be collaboratively edited by everyone in a Live Share session.
 
 ##### Testing
@@ -52,19 +48,16 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 ##### Time Tracking / Management
 
 - [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) - Automatically track how you spend your time coding, including the time spent in Live Share sessions.
-
 - [Live Share Pomodoro](https://aka.ms/vsls-pomodoro) - Provides a shared Pomodor timer for everyone in the Live Share session
 
 ##### Version Control
 
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Allows you to review a PR in real-time with other developers
-
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Enables guests within a Live Share session to view 
 
 ##### Web Development
 
 - [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) - Allows you to open/debug/browse web pages within Visual Studio Code. When in a Live Share session, all participants can browse the same pages together, which can be particularly using for debugging a web app, or viewing documentation.
-
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows you to easily spin up a local web server for static HTML files. When in a Live Share session, the local servers are automatically shared with guests, so that everyone can work on it together, without needing to manually share the underlying port.
 
 #### Visual Studio
