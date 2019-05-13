@@ -72,21 +72,23 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 
 ## Resources
 
+Check out the following resources in order to learn how to get the most out of Visual Studio Live Share, understand how others are using it, and (hopefully!) answer any questions you may have:
+
 ### Articles
 
-- [In Pursuit of Enjoyable Developer Collaboration](https://aka.ms/vsls-why) - Describes the key reasons why Live Share represents a unique developer collaboration product.
-- [Collaboration Doesn't Come in "One Size Fits All"](https://dev.to/lostintangent/collaboration-doesn-t-come-in-one-size-fits-all-33ai) - Describes the multi-modality experience that Live Share enables for collaboration
-- [Localhost Isn't Local Anymore](https://dev.to/lostintangent/localhost-isnt-local-anymore-2ib6) - Goes into detail about the ability to share localhost servers
-- [Collaborative Development Requires a Shared Browser](https://dev.to/lostintangent/collaborative-browsing-within-visual-studio-code-4h92)
+- [In Pursuit of Enjoyable Developer Collaboration](https://aka.ms/vsls-why) - Describes why Live Share was built, and the key reasons that make it a unique product for developer collaboration.
+- [Collaboration Doesn't Come in "One Size Fits All"](https://dev.to/lostintangent/collaboration-doesn-t-come-in-one-size-fits-all-33ai) - Describes the multi-modality experience that Live Share enables for collaboration (e.g. focusing on the same thing, working independently).
+- [Localhost Isn't Local Anymore](https://dev.to/lostintangent/localhost-isnt-local-anymore-2ib6) - Goes into detail about the ability to share localhost servers as part of a Live Share session.
+- [Collaborative Development Requires a Shared Browser](https://dev.to/lostintangent/collaborative-browsing-within-visual-studio-code-4h92) - Illustrates how to collaboratively browse web pages via the Browser Preview extension.
 - [Visual Studio Live Share Can Do That?](https://www.smashingmagazine.com/2018/09/visual-studio-live/) - Highlights some of the more compelling features of Live Share along with some pro-tips.
 
 ### Documentation
 
-- [Visual Studio "How to"](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vs) - Provides a quick start for using Live Share in Visual Studio
-- [Visual Studio Code "How to"](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode) - Provides a quick start for using Live Share in Visual Studio Code
-- [Security Considerations](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/security) - Discusses the various mechanisms that Live Share provides in order to collaborate securely
-- [Connectivity Requirements](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/connectivity) - Explains the requiremennts for deploying Live Share within your organization's network
-- [Common Use Cases](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/use-cases) - Outlines all of the ways that developers are using Live Share
+- [Visual Studio "How to"](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vs) - Provides a quick start for using Live Share in Visual Studio.
+- [Visual Studio Code "How to"](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode) - Provides a quick start for using Live Share in Visual Studio Code.
+- [Security Considerations](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/security) - Discusses the various mechanisms that Live Share provides in order to collaborate securely.
+- [Connectivity Requirements](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/connectivity) - Explains the requirements for deploying Live Share within your organization's network.
+- [Common Use Cases](https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/use-cases) - Outlines the diverse set of ways that developers are using Live Share today (e.g. pair programming, mentoring, interactive brown bags).
 
 ### Extensibility SDKS
 
