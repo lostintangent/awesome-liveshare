@@ -1,13 +1,13 @@
 # <img src="https://ms-vsliveshare.gallerycdn.vsassets.io/extensions/ms-vsliveshare/vsliveshare-pack/0.2.12/1554959297207/Microsoft.VisualStudio.Services.Icons.Default" width="25px" /> Awesome Live Share
 <img src="https://awesome.re/badge.svg" alt="Awesome">
 
-A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articles, editor extensions and more. Inspired by other awesome lists, and meant to provide visibility to resources that can help make your collaborative development experience even better! If you notice something missing below, that would benefit the community, please feel free to submit a PR 👍
+A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articles, editor extensions and more. Inspired by other [awesome lists](https://github.com/sindresorhus/awesome-nodejs) and meant to provide visibility to resources that can help make your real-time collaborative development experience even better! If you notice something missing below, that would benefit the community, please feel free to submit a PR or reach out to [@lostintangent](http://twitter.co/lostintangent) on Twitter 👋
 
 <a href="https://aka.ms/vsls-zelda"><img src="https://aka.ms/vsls-zelda" width="500px" /></a>
 
 # Contents
 
-- [Extensions](#extensions)
+- [Editor Extensions](#extensions)
     - [Visual Studio Code](#visual-studio-code)
         - [Chat / Communication](#chat--communication)
         - [Miscellaneous](#miscellaneous)
@@ -23,7 +23,7 @@ A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articl
     - [Documentation](#documentation) 
     - [Extensibility SDKS](#exensibility-sdks)
 
-## Extensions
+## Editor Extensions
 
 While Visual Studio Live Share provides a rich collaborative experience out-of-the-box (e.g. editing, debugging, terminals, localhost servers), it's also fully [extensible](#exensibility-sdks), which enables 3<sup>rd</sup> party extensions to augment it in new and interesting ways. Check out the following extensions in order to up-level your Live Share collaboration sessions:
 
@@ -31,10 +31,10 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 
 #### Chat / Communication
 
-- [CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - Provides an integrated chat and rich commenting system, that includes the ability to spin up Live Share sessions.
+- [CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - Provides an integrated chat and rich commenting system, that includes the ability to easily spin up Live Share sessions from a chat thread.
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - Allows other Discord users to easily spectate and/or join your active Live Share sessions ([example](https://twitter.com/LostInTangent/status/1070566201078640640)).
-- [Live Share Audio](https://aka.ms/vsls-audio) - Provides integrated audio calling for Live Share sessions, without needing to use a seperate service ([example](https://twitter.com/lostintangent/status/1075155769870307329))
-- [Team Chat](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - Provides integrated text chat for Live Share sessions, without needing to use a seperate service ([example](https://twitter.com/lostintangent/status/1075155769870307329))
+- [Live Share Audio](https://aka.ms/vsls-audio) - Provides integrated audio calling for Live Share sessions, without needing to use a seperate service ([example](https://twitter.com/lostintangent/status/1075155769870307329)).
+- [Team Chat](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - Provides integrated text chat for Live Share sessions, without needing to use a seperate service ([example](https://twitter.com/lostintangent/status/1075155769870307329)).
 
 #### Miscellaneous
 
@@ -43,21 +43,21 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 
 #### Testing
 
-- [Test Explorer](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer-liveshare) - Provides a shared test runner, where the results of test runs are viewable in real-time
+- [Test Explorer](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer-liveshare) - Provides a shared test runner, where the results of test runs are viewable in real-time.
 
 #### Time Tracking / Management
 
 - [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) - Automatically track how you spend your time coding, including the time spent in Live Share sessions ([example](https://twitter.com/brettmstevens/status/1103809321702313984)).
-- [Live Share Pomodoro](https://aka.ms/vsls-pomodoro) - Provides a shared Pomodor timer for everyone in the Live Share session ([example](https://twitter.com/lostintangent/status/1115847842453762049)).
+- [Live Share Pomodoro](https://aka.ms/vsls-pomodoro) - Provides a shared Pomodoro timer for everyone in the Live Share session, which can help add some structure to your pairing workflow ([example](https://twitter.com/lostintangent/status/1115847842453762049)).
 
 #### Version Control
 
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Allows you to review a PR in real-time with other developers ([example](https://twitter.com/lostintangent/status/1093950344239837184)).
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Enables guests within a Live Share session to view inline Git blame info as well as rich history of the project's ([example](https://twitter.com/LostInTangent/status/1085919402954874883)).
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Enables guests within a Live Share session to view inline Git blame info as well as rich commit history. This is one of the most valuable VS Code extensions in the marketplace, and it's also fully collaborative! ([example](https://twitter.com/LostInTangent/status/1085919402954874883)).
 
 #### Web Development
 
-- [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) - Allows you to open/debug/browse web pages within Visual Studio Code. When in a Live Share session, all participants can browse the same pages together, which can be particularly using for debugging a web app, or viewing documentation ([example](https://twitter.com/auchenberg/status/1116362646784102400)).
+- [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) - Allows participants within a Live Share session to browse the same pages together, which can be particularly using for debugging a web app, or viewing documentation ([example](https://twitter.com/auchenberg/status/1116362646784102400)).
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows you to easily spin up a local web server for static HTML files. When in a Live Share session, the local servers are automatically shared with guests, so that everyone can work on it together, without needing to manually share the underlying port ([example](https://twitter.com/LostInTangent/status/1063445225140568065)).
 
 ### Visual Studio
