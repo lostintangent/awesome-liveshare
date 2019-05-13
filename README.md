@@ -49,6 +49,7 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 
 - [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) - Automatically track how you spend your time coding, including the time spent in Live Share sessions ([example](https://twitter.com/brettmstevens/status/1103809321702313984)).
 - [Live Share Pomodoro](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-pomodoro) - Provides a shared Pomodoro timer for everyone in the Live Share session, which can help add some structure to your pairing workflow ([example](https://twitter.com/lostintangent/status/1115847842453762049)).
+- [Waka Time](https://wakatime.com/vs-code) - The open source plugin for productivity metrics, goals, leaderboards, and automatic time tracking.
 
 #### Version Control
 
