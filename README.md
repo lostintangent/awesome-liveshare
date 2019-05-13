@@ -3,7 +3,7 @@
 
 A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articles, editor extensions and more. Inspired by other awesome lists, and meant to provide visibility to resources that can help make your collaborative development experience even better! If you notice something missing below, that would benefit the community, please feel free to submit a PR 👍
 
-<a href="https://aka.ms/vsls-zelda"><img src="https://aka.ms/vsls-zelda" width="300px" /></a>
+<a href="https://aka.ms/vsls-zelda"><img src="https://aka.ms/vsls-zelda" width="500px" /></a>
 
 ## Contents
 
@@ -25,7 +25,7 @@ A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articl
 
 ### Extensions
 
-While Visual Studio Live Share provides a rich collaborative experience out-of-the-box (e.g. editing, debugging, terminals, localhost servers), it's also fully [extensible](#exensibility-sdks), which enables 3<sup>rd</sup> party extensions to augment it in new and interesting ways. Check out the following extensions in order to uplevel your Live Share collaborion sessions:
+While Visual Studio Live Share provides a rich collaborative experience out-of-the-box (e.g. editing, debugging, terminals, localhost servers), it's also fully [extensible](#exensibility-sdks), which enables 3<sup>rd</sup> party extensions to augment it in new and interesting ways. Check out the following extensions in order to up-level your Live Share collaboration sessions:
 
 #### Visual Studio Code
 
