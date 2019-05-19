@@ -22,6 +22,7 @@ A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articl
     - [Articles](#articles)
     - [Documentation](#documentation) 
     - [Extensibility SDKS](#exensibility-sdks)
+    - [Workflow Details](#workflow-details)
 
 ## Editor Extensions
 
@@ -94,3 +95,7 @@ Check out the following resources in order to learn how to get the most out of V
 
 - [Visual Studio](https://www.nuget.org/packages/Microsoft.VisualStudio.LiveShare/) - NuGet package for adding Live Share integration to your Visual Studio extension.
 - [Visual Studio Code](https://npmjs.com/vsls) - NPM package for adding Live Share integration to your Visual Studio Code extension.
+
+### Workflow Details
+
+- [Remote Mob Programming](https://www.remotemobprogramming.org)
