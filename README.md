@@ -83,6 +83,7 @@ Check out the following resources in order to learn how to get the most out of V
 - [Collaboration Doesn't Come in "One Size Fits All"](https://dev.to/lostintangent/collaboration-doesn-t-come-in-one-size-fits-all-33ai) - Describes the multi-modality experience that Live Share enables for collaboration (e.g. focusing on the same thing, working independently).
 - [Localhost Isn't Local Anymore](https://dev.to/lostintangent/localhost-isnt-local-anymore-2ib6) - Goes into detail about the ability to share localhost servers as part of a Live Share session.
 - [Collaborative Development Requires a Shared Browser](https://dev.to/lostintangent/collaborative-browsing-within-visual-studio-code-4h92) - Illustrates how to collaboratively browse web pages via the Browser Preview extension.
+- [You Can’t Spell Collaboration Without Communication](https://dev.to/lostintangent/you-can-t-spell-collaboration-without-communication-2a3o) - Describes the Live Share Extension Pack, and the integrated communication experiences it adds on top of Live Share “core” (e.g. audio calls, text chat).
 - [Visual Studio Live Share Can Do That?](https://www.smashingmagazine.com/2018/09/visual-studio-live/) - Highlights some of the more compelling features of Live Share along with some pro-tips.
 
 ### Documentation
