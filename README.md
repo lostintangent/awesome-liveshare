@@ -40,6 +40,7 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 
 #### Miscellaneous
 
+- [Chronicler](https://marketplace.visualstudio.com/items?itemName=arcsine.chronicler) - Allows you to automatically record a video of your Live Share sessions, for later use/reference (e.g. sharing with the team).
 - [Live Share Whiteboard](https://aka.ms/vsls-whiteboard) - Provides a real-time, collaborative whiteboard to Live Share sessions ([example](https://twitter.com/lostintangent/status/1079846355290415104)).
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) - Enables you to visually identity when you’re in a Live Share session, by changing the color of the workbench (e.g. title bar, activity bar, status bar).
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - A live JavaScript scratchpad, that can be collaboratively edited by everyone in a Live Share session ([example](https://twitter.com/wallabyjs/status/1050188666889428992)).
