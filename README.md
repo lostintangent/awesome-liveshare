@@ -41,7 +41,7 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 #### Miscellaneous
 
 - [Chronicler](https://marketplace.visualstudio.com/items?itemName=arcsine.chronicler) - Allows you to automatically record a video of your Live Share sessions, for later use/reference (e.g. sharing with the team).
-- [Live Share Communities](https://aka.ms/vsls-communities) - Provides a way to discover, share and recieve assistance in real-time, from developers across your favorite communities.
+- [Live Share Communities](https://aka.ms/vsls-communities) - Provides a way to discover, share and receive assistance in real-time, from developers across your favorite communities.
 - [Live Share Whiteboard](https://aka.ms/vsls-whiteboard) - Provides a real-time, collaborative whiteboard to Live Share sessions ([example](https://twitter.com/lostintangent/status/1079846355290415104)).
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) - Enables you to visually identity when you’re in a Live Share session, by changing the color of the workbench (e.g. title bar, activity bar, status bar).
 - [Profile Switcher](https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher) - Allows you to define a settings profile that is activated/deactivated when you start/end a Live Share session ([example](https://user-images.githubusercontent.com/116461/60541846-4dd8f580-9cc7-11e9-8b57-b8aca0252fb4.gif)).
