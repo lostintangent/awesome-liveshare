@@ -36,7 +36,7 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 - [CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - Provides an integrated chat and rich commenting system, that includes the ability to easily spin up Live Share sessions from a chat thread.
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - Allows other Discord users to easily spectate and/or join your active Live Share sessions ([example](https://twitter.com/LostInTangent/status/1070566201078640640)).
 - [Live Share Audio](https://aka.ms/vsls-audio) - Provides integrated audio calling for Live Share sessions, without needing to use a seperate service ([example](https://twitter.com/lostintangent/status/1075155769870307329)).
-- [Team Chat](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - Provides integrated text chat for Live Share sessions, without needing to use a seperate service ([example](https://twitter.com/lostintangent/status/1075155769870307329)).
+- [Live Share Chat](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - Provides integrated text chat for Live Share sessions, without needing to use a seperate service ([example](https://twitter.com/lostintangent/status/1075155769870307329)).
 
 #### Miscellaneous
 
