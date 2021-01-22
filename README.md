@@ -11,6 +11,7 @@ A curated list of awesome [Visual Studio Live Share](https://aka.ms/vsls) articl
 - [Editor Extensions](#extensions)
     - [Visual Studio Code](#visual-studio-code)
         - [Chat / Communication](#chat--communication)
+        - [Drawing](#drawing)
         - [Miscellaneous](#miscellaneous)
         - [Testing](#testing)
         - [Time Tracking / Management](#time-tracking--management)
@@ -38,11 +39,15 @@ While Visual Studio Live Share provides a rich collaborative experience out-of-t
 - [Live Share Audio](https://aka.ms/vsls-audio) - Provides integrated audio calling for Live Share sessions, without needing to use a seperate service ([example](https://twitter.com/lostintangent/status/1075155769870307329)).
 - [Live Share Chat](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - Provides integrated text chat for Live Share sessions, without needing to use a seperate service ([example](https://twitter.com/lostintangent/status/1075155769870307329)).
 
+#### Drawing
+
+- [Drawio Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) - Provides a rich diagraming canvas, that includes a fully collaborative experience, including shared cursors for all participants ([example](https://twitter.com/hediet_dev/status/1312498683347263488)).
+- [Live Share Whiteboard](https://aka.ms/vsls-whiteboard) - Provides a real-time, collaborative whiteboard to Live Share sessions ([example](https://twitter.com/lostintangent/status/1079846355290415104)). 
+
 #### Miscellaneous
 
 - [Chronicler](https://marketplace.visualstudio.com/items?itemName=arcsine.chronicler) - Allows you to automatically record a video of your Live Share sessions, for later use/reference (e.g. sharing with the team).
 - [Live Share Spaces](https://aka.ms/vsls-spaces) - Provides a way to discover, communicate and recieve assistance in real-time, from developers across your favorite teams, classrooms and communites.
-- [Live Share Whiteboard](https://aka.ms/vsls-whiteboard) - Provides a real-time, collaborative whiteboard to Live Share sessions ([example](https://twitter.com/lostintangent/status/1079846355290415104)).
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) - Enables you to visually identity when you’re in a Live Share session, by changing the color of the workbench (e.g. title bar, activity bar, status bar).
 - [Profile Switcher](https://marketplace.visualstudio.com/items?itemName=aaronpowell.vscode-profile-switcher) - Allows you to define a settings profile that is activated/deactivated when you start/end a Live Share session ([example](https://user-images.githubusercontent.com/116461/60541846-4dd8f580-9cc7-11e9-8b57-b8aca0252fb4.gif)).
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - A live JavaScript scratchpad, that can be collaboratively edited by everyone in a Live Share session ([example](https://twitter.com/wallabyjs/status/1050188666889428992)).
